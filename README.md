@@ -43,7 +43,7 @@ The following are kept track of on the client side:
 
 ![](sample) 
 
-### Notes
+## Notes
 By Default, sends the file myfile.txt
 - This can be changed in tcp_jw_client.c line 65
        
