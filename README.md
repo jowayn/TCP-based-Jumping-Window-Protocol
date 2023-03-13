@@ -41,7 +41,7 @@ The following are kept track of on the client side:
 - Total Data Sent
 - Data Rate
 
-![](sample) 
+![](/sample) 
 
 ## Notes
 By Default, sends the file myfile.txt
