@@ -30,6 +30,6 @@ A TCP-based client-server socket program for transferring large messages using a
 
 ### Notes
 - By Default, sends the file myfile.txt
- - This can be changed in tcp_jw_client.c line 65
+       - This can be changed in tcp_jw_client.c line 65
 - By Default DU size is set to 100bytes and N size is set to 5
- - This can be changed in headsock.h lines 18 and 23 respectively
+       - This can be changed in headsock.h lines 18 and 23 respectively
