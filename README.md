@@ -1,5 +1,5 @@
 # TCP-based-Jumping-Window-Protocol
-A TCP-based client-server socket program for transferring large messages using a jumping window protocol. 
+A TCP-based client-server socket program for transferring large messages using a jumping window protocol. Done as part of an assignment in the NUS module EE4204 Computer Networking. 
 
 The message is split into short data-units (DUs) which are sent and acknowledged in batches of size N (can be tuned in headsock.c) The sender sends N DUs and then waits for an ACK before sending the next batch of N DUs. It repeats the above procedure until the entire file is sent and the acknowledgement for the last batch is received. 
 
