@@ -16,7 +16,7 @@ The receiver sends an ACK after receiving N DUs. It repeats the above procedure,
  gcc tcp_jw_client.c
  ```
 
-#### Run Server side
+### Run Server side
 
 ```
 ./tcp_jw_ser
