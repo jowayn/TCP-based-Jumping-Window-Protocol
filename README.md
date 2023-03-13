@@ -25,7 +25,7 @@ The receiver sends an ACK after receiving N DUs. It repeats the above procedure,
 ### Run Client side
 
 ```
-./tcp_jw_client <IP Address of Client>
+./tcp_jw_client <IP Address of Server>
 ```
 ### If running client on same machine
 
