@@ -9,7 +9,6 @@ A TCP-based client-server socket program for transferring large messages using a
  ```
  gcc tcp_jw_ser.c
  gcc tcp_jw_client.c
- 
  ```
 
 #### Run Server side
