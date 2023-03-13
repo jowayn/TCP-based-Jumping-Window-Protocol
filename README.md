@@ -33,6 +33,16 @@ The receiver sends an ACK after receiving N DUs. It repeats the above procedure,
 ./tcp_jw_client 127.0.0.1
 ```
 
+## Features
+The following are kept track of on the client side:
+- Sent Packets
+- ACK notifications
+- Time
+- Total Data Sent
+- Data Rate
+
+![](sample) 
+
 ### Notes
 By Default, sends the file myfile.txt
 - This can be changed in tcp_jw_client.c line 65
